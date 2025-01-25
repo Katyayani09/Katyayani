@@ -64,8 +64,7 @@ I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Da
 - Conducted demand forecasting, achieving a $1.2M annual reduction in holding costs.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF6347&center=true&lines=Collaborated+with+diverse+teams; 
- Delivered+measurable+business+impact;Focused+on+AI-driven+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6347&center=true&lines=Collaborated+with+diverse+teams;Delivered+measurable+business+impact;Focused+on+AI-driven+solutions" />
 </div>
 
 ---
