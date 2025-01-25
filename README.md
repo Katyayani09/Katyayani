@@ -18,6 +18,12 @@ I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Da
 - 🧠 **Visualization Enthusiast:** Built real-time dashboards for dynamic decision-making using **Tableau** and **Power BI**.
 - 💡 **Cloud Proficiency:** Skilled in AWS, Azure, and GCP ecosystems.
 
+<div align="center">
+  <a href="#work-experience"><img src="https://img.shields.io/badge/-Work%20Experience-8A2BE2?style=for-the-badge&logo=google" /></a>
+  <a href="#key-projects"><img src="https://img.shields.io/badge/-Key%20Projects-20B2AA?style=for-the-badge&logo=github" /></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/-Tech%20Stack-FF4500?style=for-the-badge&logo=python" /></a>
+</div>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -57,6 +63,10 @@ I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Da
 - Developed recommendation engines, increasing ROI by 30%.
 - Conducted demand forecasting, achieving a $1.2M annual reduction in holding costs.
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6347&center=true&lines=Collaborated+with+diverse+teams;Delivered+measurable+business+impact;Focused+on+AI-driven+solutions" />
+</div>
+
 ---
 
 ### 📊 &nbsp;Key Projects
@@ -70,9 +80,13 @@ I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Da
 ### 📈 &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Katyayani09&show_icons=true&theme=gruvbox" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katyayani09&theme=gruvbox&hide_border=true&langs_count=10&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Katyayani09&show_icons=true&theme=radical&title_color=F776C1&text_color=FFFFFF&icon_color=FFD700" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katyayani09&theme=radical&hide_border=true&langs_count=10&layout=compact" />
 </p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Katyayani09&theme=gruvbox" />
+</div>
 
 ---
 
