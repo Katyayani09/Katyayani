@@ -80,8 +80,8 @@ I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Da
 ### 📈 &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Katyayani09&show_icons=true&theme=radical&title_color=F776C1&text_color=FFFFFF&icon_color=FFD700" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katyayani09&theme=radical&hide_border=true&langs_count=10&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Katyayani09&show_icons=true&theme=radical&title_color=F776C1&text_color=FFFFFF&icon_color=FFD700&hide_title=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katyayani09&layout=compact&theme=radical&langs_count=5&hide=css,c%2B%2B,c&custom_title=Languages+I+Work+With" />
 </p>
 
 <div align="center">
@@ -92,10 +92,10 @@ I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Da
 
 ### 🤝 &nbsp;Let's Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/katyayanijs/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://katyayani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C0C0?style=for-the-badge" /></a>
-  <a href="https://github.com/Katyayani09"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:katyayanij.js@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/katyayanijs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://katyayani.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C0C0?style=for-the-badge" /></a>
+  <a href="https://github.com/Katyayani09" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:katyayanij.js@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <p align="center">
