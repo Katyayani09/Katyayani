@@ -80,8 +80,8 @@ I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Da
 ### 📈 &nbsp;GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Katyayani09&show_icons=true&theme=radical&title_color=F776C1&text_color=FFFFFF&icon_color=FFD700" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katyayani09&theme=radical&hide_border=true&langs_count=10&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Katyayani09&show_icons=true&theme=radical&title_color=F776C1&text_color=FFFFFF&icon_color=FFD700" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katyayani09&theme=radical&hide_border=true&langs_count=10&layout=compact" />
 </p>
 
 <div align="center">
