@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Katyayani Jandhyala
 
-<img align="right" alt="AI GIF" height=250 width=400 src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" alt="Girl Coding GIF" height=250 width=400 src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ### 😀 &nbsp;About Me
 I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Data Scientist** and **Cloud Data Engineer** with expertise in transforming complex datasets into actionable insights. With over 4 years of professional experience across **Retail**, **Healthcare**, **Supply Chain**, and **Manufacturing**, I specialize in **Machine Learning**, **Big Data Analytics**, and **Predictive Modeling** to drive impactful business solutions.
