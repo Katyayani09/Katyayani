@@ -3,7 +3,7 @@
 <img align="right" alt="Girl Coding GIF" height=250 width=400 src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ### 😀 &nbsp;About Me
-I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Data Scientist** and **Cloud Data Engineer** with expertise in transforming complex datasets into actionable insights. With over 4 years of professional experience across **Retail**, **Healthcare**, **Supply Chain**, and **Manufacturing**, I specialize in **Machine Learning**, **Big Data Analytics**, and **Predictive Modeling** to drive impactful business solutions.
+I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Data Scientist** and **Data Engineer** with expertise in transforming complex datasets into actionable insights. With over 4 years of professional experience across **Retail**, **Healthcare**, **Supply Chain**, and **Manufacturing**, I specialize in **Machine Learning**, **Big Data Analytics**, and **Predictive Modeling** to drive impactful business solutions.
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F776C1&lines=Data+Scientist;Machine+Learning+Specialist;Cloud+Data+Engineer;Big+Data+Enthusiast;Always+Learning!" alt="Typing SVG" />
@@ -12,7 +12,7 @@ I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Da
 ---
 
 ### 🚀 &nbsp;Professional Highlights
-- 🌐 **Results-driven:** Boosted policy renewals by 25% and reduced fraudulent claims by 28%.
+- 🌐 **Results-driven:** Boosted policy renewals and reduced fraudulent claims.
 - 📊 **Data Engineering Expertise:** Designed scalable ETL pipelines using **SQL**, **PySpark**, and **Hadoop**.
 - 🤖 **Advanced ML/DL Models:** Applied techniques like LSTMs, Gradient Boosting, and Isolation Forests to optimize operations.
 - 🧠 **Visualization Enthusiast:** Built real-time dashboards for dynamic decision-making using **Tableau** and **Power BI**.
@@ -64,7 +64,8 @@ I'm **[Katyayani Jandhyala](https://github.com/Katyayani09)**, a passionate **Da
 - Conducted demand forecasting, achieving a $1.2M annual reduction in holding costs.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF6347&center=true&lines=Collaborated+with+diverse+teams;Delivered+measurable+business+impact;Focused+on+AI-driven+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6347&center=true&lines=Collaborated+with+diverse+teams; 
+ Delivered+measurable+business+impact;Focused+on+AI-driven+solutions" />
 </div>
 
 ---
